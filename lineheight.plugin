@@ -1,0 +1,8 @@
+[Plugin]
+Loader=python3
+Module=lineheight
+IAge=3
+Name=Line Height
+Description=Incrementa o espaços entre as linhas
+Copyright: Copyright (C) 2020 Ricardo Pereira
+Website=https://github.com/ricardopedias/gedit-plugin-lineheight
