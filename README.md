@@ -1,7 +1,10 @@
-# gedit-plugin-linespaces
-Set spaces between lines for gedit
+# Gedit Plugin: Line Height
 
-- download 'linespaces.plugin' and 'linespaces.py', and move them to '~/.local/share/gedit/plugins/'
-- set 'pixels' in 'linespaces.py'
-- run gedit go to preferences -> plugins -> select Line Spacing
+Aumenta o espaço entre as linhas no Gedit
 
+## Instalando
+
+1. Entre no diretório ~/.local/share/gedit/plugins/. Caso este não exista, crie-o.
+2. Faça o clone do plugin usando o comando `git clone https://github.com/ricardopedias/gedit-plugin-lineheight.git` 
+3. Se necessário, ajuste os espações no arquivo `lineheight.py`
+4. Acesse Preferências -> Plugins -> Ative Line Height
